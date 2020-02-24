@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="d2_factory_pattern" />
         <module name="d1_design_principle" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gp_study" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
