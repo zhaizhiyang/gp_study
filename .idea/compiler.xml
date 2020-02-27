@@ -8,10 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="d2_factory_pattern" />
         <module name="d1_design_principle" />
+        <module name="d3_single_pattern" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="gp_study" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

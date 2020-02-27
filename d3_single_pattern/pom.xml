@@ -5,17 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.gp.study</groupId>
-  <artifactId>gp_study</artifactId>
+  <artifactId>d3_single_pattern</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <modules>
-    <module>d1_design_principle</module>
-    <module>d2_factory_pattern</module>
-    <module>d3_single_pattern</module>
-    <module>d3_single_pattern</module>
-  </modules>
-  <packaging>pom</packaging>
 
-  <name>gp_study</name>
+  <name>d3_single_pattern</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
