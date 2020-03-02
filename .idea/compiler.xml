@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="d5_proxy_pattern" />
+        <module name="d4_prototype_pattern" />
         <module name="d2_factory_pattern" />
         <module name="d1_design_principle" />
         <module name="d3_single_pattern" />

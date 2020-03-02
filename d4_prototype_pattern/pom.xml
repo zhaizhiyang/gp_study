@@ -5,19 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.gp.study</groupId>
-  <artifactId>gp_study</artifactId>
+  <artifactId>d4_prototype_pattern</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <modules>
-    <module>d1_design_principle</module>
-    <module>d2_factory_pattern</module>
-    <module>d3_single_pattern</module>
-    <module>d3_single_pattern</module>
-      <module>d4_prototype_pattern</module>
-      <module>d5_proxy_pattern</module>
-  </modules>
-  <packaging>pom</packaging>
 
-  <name>gp_study</name>
+  <name>d4_prototype_pattern</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -34,7 +25,20 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
-
+    <dependency>
+      <groupId>com.alibaba</groupId>
+      <artifactId>fastjson</artifactId>
+      <version>1.2.60</version>
+    </dependency>
+    <dependency>
+      <groupId>commons-httpclient</groupId>
+      <artifactId>commons-httpclient</artifactId>
+      <version>3.1</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-lang3</artifactId>
+    </dependency>
   </dependencies>
 
   <build>
