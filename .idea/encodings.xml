@@ -7,5 +7,6 @@
     <file url="file://$PROJECT_DIR$/d3_single_pattern" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/d4_prototype_pattern" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/d5_proxy_pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/d6_decorator_facade_principle" charset="UTF-8" />
   </component>
 </project>
