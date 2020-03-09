@@ -8,9 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="d1_design_principle" />
         <module name="d4_prototype_pattern" />
-        <module name="d2_factory_pattern" />
         <module name="d3_single_pattern" />
+        <module name="d2_factory_pattern" />
         <module name="d6_decorator_facade_principle" />
+        <module name="d7_flyweight_composite_princliple" />
         <module name="d5_proxy_pattern" />
       </profile>
     </annotationProcessing>

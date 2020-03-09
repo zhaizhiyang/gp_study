@@ -15,6 +15,7 @@
         <module>d4_prototype_pattern</module>
         <module>d5_proxy_pattern</module>
         <module>d6_decorator_facade_principle</module>
+        <module>d7_flyweight_composite_princliple</module>
     </modules>
     <packaging>pom</packaging>
 

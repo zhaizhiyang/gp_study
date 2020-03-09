@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.gp.study</groupId>
-  <artifactId>d4_prototype_pattern</artifactId>
+  <artifactId>d7_flyweight_composite_princliple</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>d4_prototype_pattern</name>
+  <name>d7_flyweight_composite_princliple</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -26,20 +26,11 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>com.alibaba</groupId>
-      <artifactId>fastjson</artifactId>
-      <version>1.2.60</version>
+      <groupId>net.sf.saxon</groupId>
+      <artifactId>saxon-xpath</artifactId>
+      <version>8.7</version>
     </dependency>
-    <dependency>
-      <groupId>commons-httpclient</groupId>
-      <artifactId>commons-httpclient</artifactId>
-      <version>3.1</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.commons</groupId>
-      <artifactId>commons-lang3</artifactId>
-      <version>3.1</version>
-    </dependency>
+
   </dependencies>
 
   <build>
