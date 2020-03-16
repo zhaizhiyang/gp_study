@@ -16,6 +16,10 @@
         <module>d5_proxy_pattern</module>
         <module>d6_decorator_facade_principle</module>
         <module>d7_flyweight_composite_princliple</module>
+        <module>d8_adapter_bridge_pattern</module>
+        <module>d9_delegate_template_pattern</module>
+        <module>d10_strategy_chain_principle</module>
+        <module>d11_iterator_command_pattern</module>
     </modules>
     <packaging>pom</packaging>
 

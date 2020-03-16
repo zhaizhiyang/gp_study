@@ -2,12 +2,16 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/d10_strategy_chain_pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/d11_iterator_command_pattern" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/d1_design_principle" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/d2_factory_pattern" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/d3_single_pattern" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/d4_prototype_pattern" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/d5_proxy_pattern" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/d6_decorator_facade_principle" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/d7_flyweight_composite_princliple" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/d6_decorator_facade_pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/d7_flyweight_composite_pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/d8_adapter_bridge_pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/d9_delegate_template_pattern" charset="UTF-8" />
   </component>
 </project>
