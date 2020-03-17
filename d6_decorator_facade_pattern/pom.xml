@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.gp.study</groupId>
-  <artifactId>d6_decorator_facade_principle</artifactId>
+  <artifactId>d6_decorator_facade_pattern</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>d5_decorator_facade_principle</name>
