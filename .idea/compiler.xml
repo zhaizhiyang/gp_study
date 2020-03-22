@@ -12,14 +12,14 @@
         <module name="d1_design_principle" />
         <module name="d9_delegate_template_pattern" />
         <module name="d4_prototype_pattern" />
+        <module name="d6_decorator_facade_pattern" />
+        <module name="d12_state_memorandum_pattern" />
         <module name="d3_single_pattern" />
         <module name="d2_factory_pattern" />
-        <module name="d6_decorator_facade_pattern" />
         <module name="d5_proxy_pattern" />
+        <module name="d13_mediators_Interpreter_pattern" />
+        <module name="d10_strategy_chain_pattern" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="d10_strategy_chain_pattern" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

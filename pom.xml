@@ -20,6 +20,8 @@
         <module>d9_delegate_template_pattern</module>
         <module>d10_strategy_chain_pattern</module>
         <module>d11_iterator_command_pattern</module>
+        <module>d12_state_memorandum_pattern</module>
+        <module>d13_mediators_Interpreter_pattern</module>
     </modules>
     <packaging>pom</packaging>
 
